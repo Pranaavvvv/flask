@@ -1,0 +1,11 @@
+flask
+flask-cors
+psycopg2-binary
+sentence-transformers
+numpy
+python-dotenv
+torch
+transformers
+scikit-learn
+pgvector
+gunicorn
